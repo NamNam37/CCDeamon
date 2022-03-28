@@ -1,0 +1,6 @@
+/DiffBackup_5
+Source: C:/Users/david/Music/source
+Destination: C:/Users/david/Music/dest
+Time: 22:28:34
+Date: 28/3/2022
+Error: Could not find a part of the path 'C:\Users\david\Music\dest\DiffBackup_5_demo\vgsdgb.txt'.

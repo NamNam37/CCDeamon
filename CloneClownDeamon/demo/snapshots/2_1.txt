@@ -1,0 +1,3 @@
+C:\Users\david\Music\source2;1/1/0001 12:00:00 AM;False
+C:\Users\david\Music\source2\test1.txt;3/10/2022 4:25:42 PM;True
+C:\Users\david\Music\source2\test2.txt;3/10/2022 4:25:47 PM;True

@@ -1,0 +1,9 @@
+C:\Users\david\Music\source;1/1/0001 12:00:00 AM;False
+C:\Users\david\Music\source\test1.txt;3/28/2022 11:11:06 PM;True
+C:\Users\david\Music\source\test2.txt;3/10/2022 4:25:35 PM;True
+C:\Users\david\Music\source\ahoj;1/1/0001 12:00:00 AM;False
+C:\Users\david\Music\source\ahoj\test1.txt;3/10/2022 4:25:29 PM;True
+C:\Users\david\Music\source\ahoj\test2.txt;3/10/2022 4:25:35 PM;True
+C:\Users\david\Music\source\hello;1/1/0001 12:00:00 AM;False
+C:\Users\david\Music\source\hello\test1.txt;3/10/2022 4:25:29 PM;True
+C:\Users\david\Music\source\hello\test2.txt;3/10/2022 4:25:35 PM;True

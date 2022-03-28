@@ -1,0 +1,6 @@
+/DiffBackup_2
+Source: C:/Users/david/Music/source2
+Destination: C:/Users/david/Music/dest2
+Time: 22:27:31
+Date: 28/3/2022
+Error: none
